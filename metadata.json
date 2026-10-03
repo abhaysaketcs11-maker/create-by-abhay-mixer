@@ -1,0 +1,8 @@
+{
+  "name": "Create by Abhay Mixer",
+  "description": "Create by Abhay Mixer — Professional 2-Deck DJ Mixer console with real Web Audio API DSP engine, 3-band EQ, Biquad filters, equal-power crossfader, real waveforms, local file explorer loading, and YouTube track search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

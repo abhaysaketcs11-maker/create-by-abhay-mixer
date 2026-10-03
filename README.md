@@ -1,32 +1,20 @@
-# 🎧 Create by Abhay Mixer
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-A web-based DJ mixing application designed for a simple and modern music-mixing experience.
+# Run and deploy your AI Studio app
 
-## ✨ Features
+This contains everything you need to run your app locally.
 
-- 🎚️ Dual DJ decks
-- ▶️ Play, pause and stop controls
-- 🔊 Volume and gain controls
-- 🎛️ Bass, Mid and High controls
-- 🎚️ Crossfader
-- 🎵 Playlist and music library
-- 📁 Local audio file support
-- 📺 YouTube integration
-- 💻 Windows desktop application
-- 🌐 Browser-based interface
+View your app in AI Studio: https://ai.studio/apps/6da0b051-6cfa-4a1e-b187-7c089ab10552
 
-## 🛠️ Technologies
+## Run Locally
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Vite
-- Web Audio API
+**Prerequisites:**  Node.js
 
-## 🚀 Getting Started
 
-Clone the repository:
-
-```bash
-git clone https://github.com/abhaysaketcs11-maker/create-by-abhay-mixer.git
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
