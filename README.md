@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎧 Create by Abhay Mixer
 
-# Run and deploy your AI Studio app
+A web-based DJ Mixer application with dual decks, audio controls, playlist management, local audio support and YouTube integration.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/6da0b051-6cfa-4a1e-b187-7c089ab10552
+- 🎵 Dual DJ Decks
+- ▶️ Play, Pause & Stop Controls
+- 🔊 Volume & Gain Controls
+- 🎚️ Bass, Mid & High Controls
+- 🎛️ Crossfader
+- 📁 Local Audio File Support
+- 📋 Playlist Management
+- 🔎 YouTube Search Integration
+- 🖥️ Responsive DJ Mixer Interface
+- 💻 PWA / Desktop Support
 
-## Run Locally
+## 🛠️ Technologies
 
-**Prerequisites:**  Node.js
+- HTML
+- CSS
+- JavaScript / TypeScript
+- React
+- Vite
+- Web Audio APIs
 
+## 📌 Project
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Create by Abhay Mixer** is a personal DJ Mixer project developed to practice web development, audio processing and modern frontend technologies.
+
+## 👨‍💻 Developer
+
+**Abhay Saket**
+
+B.Tech CSE (AI & Data Science) Student
+
+---
+
+⭐ If you find this project interesting, feel free to explore the code.
